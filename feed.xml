@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Duncan Trevithick | SaaS Marketing</title>
-    <link href="https://dunctk.github.io/feed.xml" rel="self" />
-    <link href="https://dunctk.github.io" />
-    <updated>2022-10-12T17:20:13+02:00</updated>
+    <link href="https://duncanfelix.co.uk/feed.xml" rel="self" />
+    <link href="https://duncanfelix.co.uk" />
+    <updated>2022-10-12T17:34:34+02:00</updated>
     <author>
         <name>Duncan Trevithick</name>
     </author>
-    <id>https://dunctk.github.io</id>
+    <id>https://duncanfelix.co.uk</id>
 
     <entry>
         <title>SaaS Marketing CV</title>
         <author>
             <name>Duncan Trevithick</name>
         </author>
-        <link href="https://dunctk.github.io/marketing-automation-resume-cv.html"/>
-        <id>https://dunctk.github.io/marketing-automation-resume-cv.html</id>
+        <link href="https://duncanfelix.co.uk/marketing-automation-resume-cv.html"/>
+        <id>https://duncanfelix.co.uk/marketing-automation-resume-cv.html</id>
 
         <updated>2022-10-12T17:20:13+02:00</updated>
             <summary>
@@ -151,7 +151,7 @@
 <p>I practice this on my site UpLevel Green. It's focused on helping people learn more about solar panels. At the time of writing, over 2,000 people a month discover it via Google.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":5090,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-5090"><img loading="lazy"  src="https://dunctk.github.io/media/posts/37/image-1024x450.png" sizes="100vw" srcset="https://dunctk.github.io/media/posts/37/responsive/image-1024x450-xs.png 300w ,https://dunctk.github.io/media/posts/37/responsive/image-1024x450-sm.png 480w ,https://dunctk.github.io/media/posts/37/responsive/image-1024x450-md.png 768w ,https://dunctk.github.io/media/posts/37/responsive/image-1024x450-lg.png 1024w ,https://dunctk.github.io/media/posts/37/responsive/image-1024x450-xl.png 1360w ,https://dunctk.github.io/media/posts/37/responsive/image-1024x450-2xl.png 1600w"  alt=""></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-5090"><img loading="lazy"  src="https://duncanfelix.co.uk/media/posts/37/image-1024x450.png" sizes="100vw" srcset="https://duncanfelix.co.uk/media/posts/37/responsive/image-1024x450-xs.png 300w ,https://duncanfelix.co.uk/media/posts/37/responsive/image-1024x450-sm.png 480w ,https://duncanfelix.co.uk/media/posts/37/responsive/image-1024x450-md.png 768w ,https://duncanfelix.co.uk/media/posts/37/responsive/image-1024x450-lg.png 1024w ,https://duncanfelix.co.uk/media/posts/37/responsive/image-1024x450-xl.png 1360w ,https://duncanfelix.co.uk/media/posts/37/responsive/image-1024x450-2xl.png 1600w"  alt=""></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
@@ -193,8 +193,8 @@
         <author>
             <name>Duncan Trevithick</name>
         </author>
-        <link href="https://dunctk.github.io/get-custom-seo-recommendations.html"/>
-        <id>https://dunctk.github.io/get-custom-seo-recommendations.html</id>
+        <link href="https://duncanfelix.co.uk/get-custom-seo-recommendations.html"/>
+        <id>https://duncanfelix.co.uk/get-custom-seo-recommendations.html</id>
 
         <updated>2022-10-12T17:12:26+02:00</updated>
             <summary></summary>
@@ -216,247 +216,141 @@
         <author>
             <name>Duncan Trevithick</name>
         </author>
-        <link href="https://dunctk.github.io/content-production-portfolio.html"/>
-        <id>https://dunctk.github.io/content-production-portfolio.html</id>
+        <link href="https://duncanfelix.co.uk/content-production-portfolio.html"/>
+        <id>https://duncanfelix.co.uk/content-production-portfolio.html</id>
 
-        <updated>2022-10-12T17:12:26+02:00</updated>
+        <updated>2022-10-12T17:34:34+02:00</updated>
             <summary>
                 <![CDATA[
-                    Duncan's work creating (primarily video) content for a range of clients. View more details about Duncan's SEO content writing here.
+                    Duncan's work creating (primarily video) content for a range of clients.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
 <p>Duncan's work creating (primarily video) content for a range of clients.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:simpletoc/toc /--></p>
 <p><!-- wp:heading --></p>
 <h2>Marketing Videos</h2>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:heading {"level":4} --></p>
 <h4>UFS Chef in App Promo</h4>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:embed {"url":"https://youtu.be/SBkLhFWY7Fw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/SBkLhFWY7Fw
-</div>
+<div class="wp-block-embed__wrapper">https://youtu.be/SBkLhFWY7Fw</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:heading {"level":4} --></p>
 <h4>Branding video for MarketingMaster.io</h4>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:embed {"url":"https://youtu.be/61nIKyGs_DU","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/61nIKyGs_DU
-</div>
+<div class="wp-block-embed__wrapper">https://youtu.be/61nIKyGs_DU</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:heading {"level":4} --></p>
 <h4>YouTube ad for Crypto Tax SaaS (5x ROI)</h4>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:embed {"url":"https://youtu.be/7TaDdUzzIZw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/7TaDdUzzIZw
-</div>
+<div class="wp-block-embed__wrapper">https://youtu.be/7TaDdUzzIZw</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:heading {"level":4} --></p>
 <h4>University of Texas Cybersecurity Course YouTube Ad</h4>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:embed {"url":"https://youtu.be/4YZKyln4Ka4","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/4YZKyln4Ka4
-</div>
+<div class="wp-block-embed__wrapper">https://youtu.be/4YZKyln4Ka4</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:heading {"level":4} --></p>
 <h4>Futurli Recruitment / Branding</h4>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:embed {"url":"https://youtu.be/6tmGgJYrzqc","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/6tmGgJYrzqc
-</div>
+<div class="wp-block-embed__wrapper">https://youtu.be/6tmGgJYrzqc</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:generateblocks/headline {"uniqueId":"66e072b5","element":"h4"} --></p>
 <h4 class="gb-headline gb-headline-66e072b5 gb-headline-text">AutoDesk Case Study</h4>
-<p>
-<!-- /wp:generateblocks/headline --></p>
+<p><!-- /wp:generateblocks/headline --></p>
 <p><!-- wp:embed {"url":"https://youtu.be/MbyPufYLOqE","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/MbyPufYLOqE
-</div>
+<div class="wp-block-embed__wrapper">https://youtu.be/MbyPufYLOqE</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:heading {"level":3} --></p>
 <h3>Educational Videos</h3>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:heading {"level":4} --></p>
 <h4>Does AI Content Rank in Google?</h4>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:embed {"url":"https://www.youtube.com/watch?v=n9GZDJHc40A","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=n9GZDJHc40A
-</div>
+<div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=n9GZDJHc40A</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:heading {"level":3} --></p>
 <h3>Product Support Videos</h3>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:heading {"level":4} --></p>
 <h4>How to Write Facebook Ads that Convert Using AI</h4>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:embed {"url":"https://www.youtube.com/watch?v=HjX7eEzL074","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=HjX7eEzL074
-</div>
+<div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=HjX7eEzL074</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:paragraph --></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":4} --></p>
 <h4>Spiro CRM: How to Use Companies and Contacts</h4>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:embed {"url":"https://www.youtube.com/watch?v=eOlqwytiF7U","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=eOlqwytiF7U
-</div>
+<div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=eOlqwytiF7U</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:heading {"level":4} --></p>
 <h4>Spiro CRM: How to Use the Spiro AI Assistant</h4>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:embed {"url":"https://www.youtube.com/watch?v=3idDifPTuDU\u0026feature=youtu.be","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=3idDifPTuDU&amp;feature=youtu.be
-</div>
+<div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=3idDifPTuDU&amp;feature=youtu.be</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:heading --></p>
 <h2>Personal YouTube Channel</h2>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:heading {"level":4} --></p>
 <h4>Does Solar Make Sense in the UK?</h4>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:embed {"url":"https://www.youtube.com/watch?v=YaQz1utri-c","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=YaQz1utri-c
-</div>
+<div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=YaQz1utri-c</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:heading {"level":4} --></p>
 <h4>Polar Night: 2 Months Without Sun in Northern Norway</h4>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:embed {"url":"https://www.youtube.com/watch?v=LLpdOKf38n8\u0026t=1s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
-</div>
+<div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:heading --></p>
-<h2>Written Content</h2>
-<p>
-<!-- /wp:heading --></p>
+<h2> </h2>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>View more details about Duncan's <a href="https://photonicgrowth.com/services/freelance-seo-content-writer/" data-type="page" data-id="4682">SEO content writing here</a>.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p> </p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:wpdatatables/wpdatatables-gutenberg-block {"short_code":"[wpdatatable id=1 table_view=regular]"} --></p>
-<div class="wp-block-wpdatatables-wpdatatables-gutenberg-block">[wpdatatable id=1 table_view=regular]</div>
-<p>
-<!-- /wp:wpdatatables/wpdatatables-gutenberg-block --></p>
+<p><!-- /wp:wpdatatables/wpdatatables-gutenberg-block --></p>
 <p><!-- wp:paragraph --></p>
-<p>
-<!-- /wp:paragraph --></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Articles</title>
-        <author>
-            <name>Duncan Trevithick</name>
-        </author>
-        <link href="https://dunctk.github.io/articles.html"/>
-        <id>https://dunctk.github.io/articles.html</id>
-
-        <updated>2022-10-12T17:12:26+02:00</updated>
-            <summary>
-                <![CDATA[
-                    [wp_show_posts id="4892"]
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:generateblocks/container {"uniqueId":"a10b8f58","isDynamic":true,"blockVersion":2} -->
-<!-- wp:shortcode -->
-[wp_show_posts id="4892"]
-<!-- /wp:shortcode -->
-<!-- /wp:generateblocks/container --></p>
-<p><!-- wp:paragraph --></p>
-<p>
-<!-- /wp:paragraph --></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Reviews</title>
-        <author>
-            <name>Duncan Trevithick</name>
-        </author>
-        <link href="https://dunctk.github.io/reviews.html"/>
-        <id>https://dunctk.github.io/reviews.html</id>
-
-        <updated>2022-10-12T17:12:26+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-
-
+<p><!-- /wp:paragraph --></p>
             ]]>
         </content>
     </entry>
@@ -465,8 +359,8 @@ https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
         <author>
             <name>Duncan Trevithick</name>
         </author>
-        <link href="https://dunctk.github.io/lead-generation-surveys-the-best-tools-and-strategies.html"/>
-        <id>https://dunctk.github.io/lead-generation-surveys-the-best-tools-and-strategies.html</id>
+        <link href="https://duncanfelix.co.uk/lead-generation-surveys-the-best-tools-and-strategies.html"/>
+        <id>https://duncanfelix.co.uk/lead-generation-surveys-the-best-tools-and-strategies.html</id>
 
         <updated>2022-10-12T17:12:26+02:00</updated>
             <summary>
@@ -557,8 +451,8 @@ https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
         <author>
             <name>Duncan Trevithick</name>
         </author>
-        <link href="https://dunctk.github.io/how-to-advertise-a-saas-product-case-study-in-the-crypto-niche-using-youtube-ads.html"/>
-        <id>https://dunctk.github.io/how-to-advertise-a-saas-product-case-study-in-the-crypto-niche-using-youtube-ads.html</id>
+        <link href="https://duncanfelix.co.uk/how-to-advertise-a-saas-product-case-study-in-the-crypto-niche-using-youtube-ads.html"/>
+        <id>https://duncanfelix.co.uk/how-to-advertise-a-saas-product-case-study-in-the-crypto-niche-using-youtube-ads.html</id>
 
         <updated>2022-10-12T17:12:25+02:00</updated>
             <summary>
@@ -641,7 +535,7 @@ https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":4583,"width":603,"height":319,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large is-resized"><figure class="wp-image-4583"><img loading="lazy" src="https://dunctk.github.io/media/posts/8/image-24-1024x541.png" sizes="100vw" srcset="https://dunctk.github.io/media/posts/8/responsive/image-24-1024x541-xs.png 300w ,https://dunctk.github.io/media/posts/8/responsive/image-24-1024x541-sm.png 480w ,https://dunctk.github.io/media/posts/8/responsive/image-24-1024x541-md.png 768w ,https://dunctk.github.io/media/posts/8/responsive/image-24-1024x541-lg.png 1024w ,https://dunctk.github.io/media/posts/8/responsive/image-24-1024x541-xl.png 1360w ,https://dunctk.github.io/media/posts/8/responsive/image-24-1024x541-2xl.png 1600w"  alt=""  width="603" height="319"/></figure></figure>
+<figure class="wp-block-image size-large is-resized"><figure class="wp-image-4583"><img loading="lazy" src="https://duncanfelix.co.uk/media/posts/8/image-24-1024x541.png" sizes="100vw" srcset="https://duncanfelix.co.uk/media/posts/8/responsive/image-24-1024x541-xs.png 300w ,https://duncanfelix.co.uk/media/posts/8/responsive/image-24-1024x541-sm.png 480w ,https://duncanfelix.co.uk/media/posts/8/responsive/image-24-1024x541-md.png 768w ,https://duncanfelix.co.uk/media/posts/8/responsive/image-24-1024x541-lg.png 1024w ,https://duncanfelix.co.uk/media/posts/8/responsive/image-24-1024x541-xl.png 1360w ,https://duncanfelix.co.uk/media/posts/8/responsive/image-24-1024x541-2xl.png 1600w"  alt=""  width="603" height="319"/></figure></figure>
 <p>
 <!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -652,7 +546,7 @@ https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
 <p>
 <!-- /wp:heading --></p>
 <p><!-- wp:image {"id":4582,"width":613,"height":324,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large is-resized"><figure class="wp-image-4582"><img loading="lazy" src="https://dunctk.github.io/media/posts/8/image-23-1024x541.png" sizes="100vw" srcset="https://dunctk.github.io/media/posts/8/responsive/image-23-1024x541-xs.png 300w ,https://dunctk.github.io/media/posts/8/responsive/image-23-1024x541-sm.png 480w ,https://dunctk.github.io/media/posts/8/responsive/image-23-1024x541-md.png 768w ,https://dunctk.github.io/media/posts/8/responsive/image-23-1024x541-lg.png 1024w ,https://dunctk.github.io/media/posts/8/responsive/image-23-1024x541-xl.png 1360w ,https://dunctk.github.io/media/posts/8/responsive/image-23-1024x541-2xl.png 1600w"  alt=""  width="613" height="324"/></figure></figure>
+<figure class="wp-block-image size-large is-resized"><figure class="wp-image-4582"><img loading="lazy" src="https://duncanfelix.co.uk/media/posts/8/image-23-1024x541.png" sizes="100vw" srcset="https://duncanfelix.co.uk/media/posts/8/responsive/image-23-1024x541-xs.png 300w ,https://duncanfelix.co.uk/media/posts/8/responsive/image-23-1024x541-sm.png 480w ,https://duncanfelix.co.uk/media/posts/8/responsive/image-23-1024x541-md.png 768w ,https://duncanfelix.co.uk/media/posts/8/responsive/image-23-1024x541-lg.png 1024w ,https://duncanfelix.co.uk/media/posts/8/responsive/image-23-1024x541-xl.png 1360w ,https://duncanfelix.co.uk/media/posts/8/responsive/image-23-1024x541-2xl.png 1600w"  alt=""  width="613" height="324"/></figure></figure>
 <p>
 <!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -715,7 +609,7 @@ https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
 <p>
 <!-- /wp:heading --></p>
 <p><!-- wp:image {"id":4587,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-4587"><img loading="lazy" src="https://dunctk.github.io/media/posts/8/results-1-1024x439.png" sizes="100vw" srcset="https://dunctk.github.io/media/posts/8/responsive/results-1-1024x439-xs.png 300w ,https://dunctk.github.io/media/posts/8/responsive/results-1-1024x439-sm.png 480w ,https://dunctk.github.io/media/posts/8/responsive/results-1-1024x439-md.png 768w ,https://dunctk.github.io/media/posts/8/responsive/results-1-1024x439-lg.png 1024w ,https://dunctk.github.io/media/posts/8/responsive/results-1-1024x439-xl.png 1360w ,https://dunctk.github.io/media/posts/8/responsive/results-1-1024x439-2xl.png 1600w"  alt="" /></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-4587"><img loading="lazy" src="https://duncanfelix.co.uk/media/posts/8/results-1-1024x439.png" sizes="100vw" srcset="https://duncanfelix.co.uk/media/posts/8/responsive/results-1-1024x439-xs.png 300w ,https://duncanfelix.co.uk/media/posts/8/responsive/results-1-1024x439-sm.png 480w ,https://duncanfelix.co.uk/media/posts/8/responsive/results-1-1024x439-md.png 768w ,https://duncanfelix.co.uk/media/posts/8/responsive/results-1-1024x439-lg.png 1024w ,https://duncanfelix.co.uk/media/posts/8/responsive/results-1-1024x439-xl.png 1360w ,https://duncanfelix.co.uk/media/posts/8/responsive/results-1-1024x439-2xl.png 1600w"  alt="" /></figure></figure>
 <p>
 <!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -751,30 +645,12 @@ https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
         </content>
     </entry>
     <entry>
-        <title>Case Studies</title>
-        <author>
-            <name>Duncan Trevithick</name>
-        </author>
-        <link href="https://dunctk.github.io/case-studies.html"/>
-        <id>https://dunctk.github.io/case-studies.html</id>
-
-        <updated>2022-10-12T17:12:25+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>How Much Does Video Editing Cost?</title>
         <author>
             <name>Duncan Trevithick</name>
         </author>
-        <link href="https://dunctk.github.io/how-much-does-video-editing-cost.html"/>
-        <id>https://dunctk.github.io/how-much-does-video-editing-cost.html</id>
+        <link href="https://duncanfelix.co.uk/how-much-does-video-editing-cost.html"/>
+        <id>https://duncanfelix.co.uk/how-much-does-video-editing-cost.html</id>
 
         <updated>2022-10-12T17:12:25+02:00</updated>
             <summary>
@@ -933,8 +809,8 @@ https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
         <author>
             <name>Duncan Trevithick</name>
         </author>
-        <link href="https://dunctk.github.io/a-list-of-tools-ive-used-to-help-generate-leads-signups-and-grow-clients-businesses.html"/>
-        <id>https://dunctk.github.io/a-list-of-tools-ive-used-to-help-generate-leads-signups-and-grow-clients-businesses.html</id>
+        <link href="https://duncanfelix.co.uk/a-list-of-tools-ive-used-to-help-generate-leads-signups-and-grow-clients-businesses.html"/>
+        <id>https://duncanfelix.co.uk/a-list-of-tools-ive-used-to-help-generate-leads-signups-and-grow-clients-businesses.html</id>
 
         <updated>2022-10-12T17:12:25+02:00</updated>
             <summary>
@@ -950,7 +826,7 @@ https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
 <p>
 <!-- /wp:heading --></p>
 <p><!-- wp:image {"id":4966,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-4966"><img loading="lazy" src="https://dunctk.github.io/media/posts/19/Screenshot-2021-12-08-at-13.36.22-1024x868.png" sizes="100vw" srcset="https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-xs.png 300w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-sm.png 480w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-md.png 768w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-lg.png 1024w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-xl.png 1360w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-2xl.png 1600w"  alt="" /></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-4966"><img loading="lazy" src="https://duncanfelix.co.uk/media/posts/19/Screenshot-2021-12-08-at-13.36.22-1024x868.png" sizes="100vw" srcset="https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-xs.png 300w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-sm.png 480w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-md.png 768w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-lg.png 1024w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-xl.png 1360w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-13.36.22-1024x868-2xl.png 1600w"  alt="" /></figure></figure>
 <p>
 <!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -996,7 +872,7 @@ https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
 <p>
 <!-- /wp:heading --></p>
 <p><!-- wp:image {"id":4964,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-4964"><img loading="lazy" src="https://dunctk.github.io/media/posts/19/Screenshot-2021-12-08-at-12.22.33-1024x981.png" sizes="100vw" srcset="https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-xs.png 300w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-sm.png 480w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-md.png 768w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-lg.png 1024w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-xl.png 1360w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-2xl.png 1600w"  alt="" /></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-4964"><img loading="lazy" src="https://duncanfelix.co.uk/media/posts/19/Screenshot-2021-12-08-at-12.22.33-1024x981.png" sizes="100vw" srcset="https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-xs.png 300w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-sm.png 480w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-md.png 768w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-lg.png 1024w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-xl.png 1360w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-08-at-12.22.33-1024x981-2xl.png 1600w"  alt="" /></figure></figure>
 <p>
 <!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -1015,7 +891,7 @@ https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
 <p>
 <!-- /wp:heading --></p>
 <p><!-- wp:image {"id":4963,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-4963"><img loading="lazy" src="https://dunctk.github.io/media/posts/19/Screenshot-2021-12-06-at-17.06.41-1024x856.png" sizes="100vw" srcset="https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-xs.png 300w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-sm.png 480w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-md.png 768w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-lg.png 1024w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-xl.png 1360w ,https://dunctk.github.io/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-2xl.png 1600w"  alt="" /></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-4963"><img loading="lazy" src="https://duncanfelix.co.uk/media/posts/19/Screenshot-2021-12-06-at-17.06.41-1024x856.png" sizes="100vw" srcset="https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-xs.png 300w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-sm.png 480w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-md.png 768w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-lg.png 1024w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-xl.png 1360w ,https://duncanfelix.co.uk/media/posts/19/responsive/Screenshot-2021-12-06-at-17.06.41-1024x856-2xl.png 1600w"  alt="" /></figure></figure>
 <p>
 <!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -1064,6 +940,741 @@ https://www.youtube.com/watch?v=LLpdOKf38n8&amp;t=1s
 <p><!-- wp:paragraph --></p>
 <p>
 <!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How to Turn a Blog Post into a Video</title>
+        <author>
+            <name>Duncan Trevithick</name>
+        </author>
+        <link href="https://duncanfelix.co.uk/how-to-turn-a-blog-post-into-a-video.html"/>
+        <id>https://duncanfelix.co.uk/how-to-turn-a-blog-post-into-a-video.html</id>
+
+        <updated>2022-10-12T17:12:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://duncanfelix.co.uk/media/posts/18/gallery-100.jpg" alt="" />
+                    Until people stop searching for things on the internet, blog content will have an important role in your business. That said, all internet users like to read blog posts. So if you have an existing content marketing strategy pretty much dialed in using written content&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://duncanfelix.co.uk/media/posts/18/gallery-100.jpg" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p>Until people stop searching for things on the internet, blog content will have an important role in your business. That said, all internet users like to read blog posts.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So if you have an existing content marketing strategy pretty much dialed in using written content plus social media images etc, and are looking to expand out and develop a video marketing and YouTube strategy, then having a way to turn blog posts, existing articles, infographics, and other written content into videos is a solid starting point.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>In this guide I'm going to show you some proven tips on how to turn a blog post into a video, using a process that many businesses are using to great success.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I'll also dig into some of the software tools that can help you create videos, grow your YouTube channel and do fantastic video marketing!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>How to Select Which Blog Posts to use to Create Videos for Your YouTube Channel</h2>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>You want a great article to start with when you're looking to turn blog posts into videos. It can be an old article that gets good web traffic, or a new blog post.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>What we're doing here is finding what content that already strongly resonates with people.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Instead of doing lots of work to research new topic ideas, stand on the shoulders of giants by improving what's already working well, to bring even more traffic into your small business or SaaS product.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Identifying Popular Content</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>We want to ensure that the content is consistently popular, and not just because it got lucky with a particular week on social media for example. So the approach I reccomend is 'SEO first'.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Using Ahrefs Site Explorer</h4>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Log into Ahrefs and go to site explorer, then type your domain in, and select 'top pages' on the right hand nav.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:image --></p>
+<figure class="wp-block-image"><img loading="lazy" src="https://duncanfelix.co.uk/media/posts/18/Capto_Capture-2021-10-25_12-26-51_pm.png" sizes="100vw" srcset="https://duncanfelix.co.uk/media/posts/18/responsive/Capto_Capture-2021-10-25_12-26-51_pm-xs.png 300w ,https://duncanfelix.co.uk/media/posts/18/responsive/Capto_Capture-2021-10-25_12-26-51_pm-sm.png 480w ,https://duncanfelix.co.uk/media/posts/18/responsive/Capto_Capture-2021-10-25_12-26-51_pm-md.png 768w ,https://duncanfelix.co.uk/media/posts/18/responsive/Capto_Capture-2021-10-25_12-26-51_pm-lg.png 1024w ,https://duncanfelix.co.uk/media/posts/18/responsive/Capto_Capture-2021-10-25_12-26-51_pm-xl.png 1360w ,https://duncanfelix.co.uk/media/posts/18/responsive/Capto_Capture-2021-10-25_12-26-51_pm-2xl.png 1600w"  alt=""/></figure>
+<p>
+<!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>You should be able to see a list of top pages on your site. Export this as an excel file and then open that in your favourite spreadsheet editor (I'm using Google Sheets).</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Next, you want to ignore pages like ad campaign landing pages, features, pricing, home page, about, etc. and focus on articles and blogs. You can even just delete those rows from your spreadsheet.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Make a note of content that has the most traffic, and also the 'top keyword' which will give you an idea of the intent behind a good amount of people who are finding your content from search engines.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now, many of the entries on this should be great options to turn blog posts into videos.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>Process for Creating Videos from Blog Posts</h2>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The actual video production process looks like this:</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Re-write the article into a video script</li>
+<li>Film a presenter reading the script</li>
+<li>Edit the presenter video</li>
+<li>Add stock video &amp; basic graphics (titles, screenshots, illustrations)</li>
+<li>Refine the graphics (animate the illustrations etc)</li>
+<li>(Optional) Check the video internally</li>
+<li>Create optimised thumbnail, titles, tags and description for YouTube</li>
+<li>Publish to YouTube or schedule for your regular slot (1-3 times a month works well)</li>
+<li>Promote by adding to the orginal blogpost, sharing on social media and adding to email flows etc.</li>
+</ol>
+<p>
+<!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>How to re-write an article as a video script for YouTube</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The main things you want to aim for when turning a blog post into a video are: making it more conversational,and picking up the pace a little bit. Unfortuantly you can't just 100% copy and paste text.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Videos typically work best when they're around 50-80% of the word count of the original article.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It's easier for people to skim text in articles, but for people who prefer video - they can't do that as easily, so it helps to pick up the pace a bit.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If it's a really long article, then you can split that into multiple videos.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>For example: A 13,000 word epic skyscraper blogpost would take around 20-30 minutes for people to watch in full on YouTube depending on how good your video editor skills are!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>To make your blog post more conversational, think about what people would say if they were talking to you explaining the story.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>How does that sound? Can you speak it out loud, record yourself and then play back? Does that feel more conversational or natural than your original article did?</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Is there another way to get across your main points whilst sounding a bit more like you're explaining them to a friend?</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is an iterative process - looking at draft videos on a phone can be helpful for this.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Film a presenter reading the script</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>To film a presenter reading the script, at the most basic level, all you need is a laptop and a desk.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you've got an iMac or MacBook Pro with any kind of editing software on it then that's great! Just set up your camera in front of you and hit record.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Of course, if you want more polished videos that help your company come across as friendly but still professional, then it's better to invest in a professional setup.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>You can either hire a presenter online who has an existing recording set up, or you can bring that role in house, either as a full time YouTube presenter role, or if you're the co founder yourself then being the face of your own business (think Noah Kagan of AppSumo, or Richard Branson) also works well.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The presenter video content also provides the voice overs for parts of your YouTube video that have photos, slides, motion graphics, or stock footage on screen.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>The ideal filming setup for YouTube is :</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>A DSLR camera (Canon and Nikon are the most common brands) with a 'fast' lens. Don't worry about this too much, but it's basically how well the camera performs in low light conditions - lenses like f/1.8 or f/2.8 let more light into your images.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Visually, it also helps blur the background and make the presenter 'pop' out from it.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>A tripod. Again, any one you've got in your house will work for this - but if you want to invest in a good quality video camera setup then it's worth also investing in tripods that are sturdy and reliable. It's a tool that will last basically forever if you invest in a high quality one.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Wireless lav microphones (the small mic clips on the shirt). This means that your presenter can wander around the room, or at least face different directions without the audio getting quieter when they turn away.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Another great option is to simply have a condenser microphone on a stand on the desk, like you will have seen if you've ever tuned in for an episode of the Joe Rogan Experience.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Background: you have a few options here:</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>A green screen is tempting but actually quite hard to pull off without looking tacky. If you must go for a green screen, you really need to have a good amount of space, and invest heavily into good lighting.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is because you need good seperation between the different light sources to ensure you don't have 'spill' - green colour going across your presenter's face.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Whiteboards - great if you want to run through the key points of your topic on screen with a presenter at the same time! But it can also end up looking tacky as they have been used a lot in 'internet marketer' style videos.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>What I would reccomend however is a simple plain coloured background - ideally something dark like grey or black to make your presenter pop out, avoiding distracting backgrounds.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Pro tip: a classic lighting technique is to add a highlight just behind the presenter, as well as a side light to help them pop out even more cleanly.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>You can buy a paper roll in most stationary shops (e.g: Paperchase) which is great for this - just unroll it on the background area, double side tape down along one edge onto the wall/floor etc. Again, the key here is good lighting, which I will cover in more detail in just a second.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Another great option is to create a casual office or home space which has a variety of foreground and background items to create a sense of depth.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is where having a 'fast' lens comes in handy, as it can look really nice to blur the background in these types of setups.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>One note that I've picked up from watching movies, is to always have a selection of lamps in the frame at different distances from the camera - it really adds to that sense of depth.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Editing the presenter video</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The next step is to take the recording from the presenter, whether that's something you've filmed yourself, or have hired a freelance presenter to record themselves, and edit it into the base of your video.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is where you're creating the structure of your video. Edit out any unnatural pauses or parts of the text which just don't across as well when you hear them being spoken (as opposed to just reading on a screen).</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Optional: Add music</strong></p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Whether or not you want to add music to your video file is matter of opinion. A lot of good videos don't have music, and you certainly don't need it to do a great job with your YouTube videos. But sometimes it can help add personality and a powerful tool to enhance emotions. In other words - it's your call.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Once this is done, you're ready to move on to adding graphics to the video.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Add stock video &amp; basic graphics</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now you'll want to make the video more visually interesting than just a talking head, by adding relevant stock footage as well as graphics such as titles, screenshots, and illustrations .</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>A key tip here is to choose stock video which actually enhances the message you are trying to send, rather than just being pretty filler. For example, if you're talking about how fast a car can go - do not use slow motion footage of someone running. Do instead use high speed camera technology that gives people an idea for what 'fast' really means.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Motion graphics titles help to break up the video and establish what you're talking about at each point. You can also use them to add a bit of personality, so if your business has a mascot character or something similar - put it in there somewhere!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you're using a lot of graphics and illustrations, it can be helpful to give them all the same look and feel - maybe choose a colour palette that matches your company branding so they really fit in.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is where most people get stuck when turning their blog posts into videos - but don't worry! It's actually quite straightforward if you do things in stages.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Don't try to do a lot of fancy animation at first, just get the main building blocks in place by dropping in still illustrations (in vector format so they can be animated later).</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Adobe After Effects is my favourite software tool to use here, but I hate to say it: you can even use Microsoft Powerpoint if that's what you already know.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Remember that you can easily get good quality vector illustrations from sites like Envato or Creative Market.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Refine the graphics</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Once you're happy with the overal structure and flow, and you have an almost finished video, it's time to add a bit of polish to your motion graphics.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is where the fun happens! Explore different ways of animating your illustrations, to really bring them to life. You can also experiment with adding in extra details or embellishments that you couldn't fit into the video's structure before. For example, if there was a section about how much money something costs - you could have some numbers flip round on screen until they hit the correct figure.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Check the video internally</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you're working with a video production consultant to get these videos done (like me), then typically you'll get a chance to preview the video before it's published, and make any last minute tweaks to ensure it's on brand.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Or if you're doing this in your in house marketing team, you can use a tool like Wipster to share videos with team members and get feedback before they go live.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If all has gone well, your video should be ready!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Create an optmised thumbnail, title, description, and tags for YouTube</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The last step is to create a video which you can actually share online. This means uploading the file to YouTube, and then customising how it's presented - including adding an attention grabbing thumbnail image, as well as a title, description and tags that will encourage people to watch (and hopefully share!) your awesome video.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It's a fine line between accurate and on brand, and clickbaity (because you want people to actually watch!). Remember that YouTube takes into account both clickthrough rate and watch time in their algorithm, so you want to aim for a title that's accurate but also enticing.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is where having someone knowledgeable in your team (or outside help) will really pay off - because the best layout for your thumbnail image, plus a great description and keywords are essential at this stage, as they influence how likely people are to find it when searching online. And don't forget about tags! Tags are a great way to describe your video within YouTube's system, and also help with discoverability.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Remember that everything you do online is public - so if you're going to put the effort into producing these videos for marketing purposes, make sure they'll reach as many people as possible!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Upload to YouTube or schedule for your regular slot</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Once you're happy with the video, it's just a case of uploading to YouTube - or scheduling for your regular slot (1-3 times per month often works well).</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>And voila! Your amazing blog post has turned into an awesome video that can be shared by your audience!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So what are you waiting for? Click publish and (optional) do a little dance of celebration.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Promote by adding to the orginal blogpost, sharing on social media and adding to email flows</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The usual rules apply when you're turning blog posts into videos...</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Don't just hit publish and hope for the best!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The final step is to promote your videos by adding links and embeds in the original blog post, sending out in your marketing emails, as well as sharing to Facebook, and your other social channels. Remember to also link to the original post page on your website for non video users.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Try to favour promoting it just to the most relevant audiences that you have on your email list and social media channels, as this will give your video the highest possible watch time percentage, leading to the best long term results.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If this all sounds like something you want help with, then please get in touch - I'd love to help.</p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>YouTube Ads for B2B: A Primer</title>
+        <author>
+            <name>Duncan Trevithick</name>
+        </author>
+        <link href="https://duncanfelix.co.uk/youtube-ads-for-b2b-a-primer.html"/>
+        <id>https://duncanfelix.co.uk/youtube-ads-for-b2b-a-primer.html</id>
+
+        <updated>2022-10-12T17:12:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://duncanfelix.co.uk/media/posts/16/close-up-african-american-girl-dreamily-posing-on-2021-08-27-09-43-10-utc.jpg" alt="" />
+                    YouTube ads are a great way to reach your target audience, even if they're not actively searching for your products or services. This blog post will give you the lowdown on YouTube advertising and how it can be used as an effective marketing tool in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://duncanfelix.co.uk/media/posts/16/close-up-african-american-girl-dreamily-posing-on-2021-08-27-09-43-10-utc.jpg" alt="" />
+                <p><!-- wp:paragraph --></p>
+<p>YouTube ads are a great way to reach your target audience, even if they're not actively searching for your products or services. This blog post will give you the lowdown on YouTube advertising and how it can be used as an effective marketing tool in B2B settings, based on my experience using them to <a href="https://photonicgrowth.com/case-study/how-to-generate-leads-for-solar-sales-solar-lead-generation-case-study/" data-type="page" data-id="4572">generate leads for solar sales</a>, and increase user signups for SaaS products.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>YouTube is one of the most popular video-sharing sites on the internet with 1 billion active users every single day. It's also the second largest search engine.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It's no wonder that marketers have been using this powerful platform to advertise their brands since 2007, when the Google Ads team first introduced them to advertisers looking for a new outlet.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>These days, it's easy to create a YouTube ad from scratch or promote your videos from within other social media channels like Facebook and Twitter--the opportunities are endless!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It used to be that people in B2B marketing had very limited options for reaching niche audiences on YouTube.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It was fine if you had TVs or energy drinks to sell, but if you needed to target a more specific business audience, you were out of luck and forced to target audiences like “business travellers” (whatever that means).</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now though, you’re able to be a million times more specfic in which audiences you can select to show ads to, which has opened up massive opportunites for B2B SaaS companies that already have good product market fit.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Video marketing using YouTube ads is like having the entire world of potential customers all turning up at your booth in a giant trade show - good news for B2B marketers!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:block {"ref":4284} /--></p>
+<p><!-- wp:heading --></p>
+<h2><strong>The Opportunity</strong></h2>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>YouTube for B2B: Overall Marketing Strategy</strong></h2>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Rule number one of digital marketing is that first, you must have the right offer that works with paid traffic.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I can’t emphasise this enough. If you do not have an offer that fits with how paid traffic works, then you will burn cash and waste your time. There’s no amount of fancy AI targeting that will <em>force</em> an offer to work.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So how do you ensure you have a good offer?</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>First you need to understand that there are different groups of people availabe to you on YouTube (or any other ad platform). Typically, these audiences are:</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The small but highly invested audience</li>
+<li>The wider but less invested audience</li>
+<li>Everyone else on YouTube</li>
+<li>understanding the principles of thwe audiences on paid traffic</li>
+<li>the angle of your offer</li>
+<li>who it can be sold to</li>
+<li>pricing</li>
+<li>first undertand who you’re talking to – if you try to talk to everyone else the way you’d talk to the highly invested audience, it will not work.</li>
+</ul>
+<p>
+<!-- /wp:list --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Types of Ads on YouTube</h4>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Instream ads are the standard skipable ads which you see when you’re <em>trying</em> to watch another video. These are the simplest ones and therefore the best to start with. Find the simplest thing possible which works, and then only make it more complex if absolutely necessary.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Examples</strong> of B2B YouTube Ads</h2>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3><strong>How to Find Examples</strong></h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Scriptwriting</strong></h2>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Having a good script means a much lower cost per click, which means an overal much lower cost to aquire a new user.</li>
+<li>Most important thing: knowing what your customer <em>really </em>wants. Not what you think they want.</li>
+<li>People essentially want effortless quick results</li>
+<li>Make sure to create many scripts in order to figure out which one works best.</li>
+</ul>
+<p>
+<!-- /wp:list --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Script opener: Hook Viewers Quickly</h4>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>You need to call out the intended audience quickly, and get them to keep watching. A lot of people think they just need to do something really attention grabbing for everyone, but you actually want to focus on the specific audience who might want to try your product. This is especially the case in B2B.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It used to be true that YouTube would only charge you for people who watched past 30 seconds, and so you will probably read other advice that tells you to actively tell non ideal customers to <em>stop watching </em>and click skip. That has since changed, and in most cases you will pay per 1,000 ‘impressions’ instead. But it’s still important to capture the attention of the right people early on your video.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>"Kick the bruised knee" to Build Emotional Tension</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The emotional tension here means that people will be more likely to watch what happens next.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It’s an opening scene from a TV show, and even if you can't explain it in words, the audience knows exactly what is going on - do they help this person or not?</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Build Relationships by Showing them You Understand their Pain</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The second they feel like you understand them, they will be much more likely to watch your video.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Show that You Understand their Pain Better than Competitors</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>People are always willing to hear about how something works when it’s relevant and if they think there is an easy way out of their problems.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Show that You Can Help Solve their Problem</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>You need to show them why you are the best solution.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So if they feel like another company might be able to help, but only after a long drawn out process, then it’s not relevant for them right now and they will most likely ignore it.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Be Authentic in order to Build Trust.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>People buy based on trust. Don't make unrealistic promises here, B2B buyers might still be influenced by emotion, but they're also savvy and will see through an over promising.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Call to Action</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Most people will skip your video if you don’t tell them to watch the end. Make sure that you ask for something at this point, such filling out a form, taking a free assesment, booking a call on your calendar, or signing up for a free trial.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Show this next step on screen.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Make it so obvious that a five year old could not miss it.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It's not patronising, it's simply an effective digital marketing strategy, just as skilled pilots have incredibly simple prompts and checklists for times when they are least likely to be paying a lot of attention to something important.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Video production</strong></h2>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3><strong>Finding a presenter</strong></h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Finding a presenter for your YouTube ads is important, because this is where viewers will feel the most trust in your product.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Explainer videos using animation are great, but I've found that seeing actual human beings in your skippable ads is a great way to hook viewers quickly and really connect with potential customers.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you’re not good at public speaking yourself (for example as the co founder of the product) but still want to do a video ad campaign I would suggest looking for someone who can speak on behalf of your company who has a lot of experience being on camera.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3><strong>Finding an Editor</strong></h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is a tough one, but it’s important.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Find someone who really understands how YouTube ads for B2B work and knows what they are doing with video production - don't just hire anyone!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It needs to be done well in order to get results, so make sure you have this covered before trying to launch your ad campaign.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Recommended Stock Footage Sites (For All Budgets)</h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Low Budget</h4>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="http://1.envato.market/duncan" rel="noreferrer noopener" target="_blank"><strong>Envato Elements</strong></a> – $15 / month.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Unlimited downloads of stock footage, as well as illustrations, music, etc.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The quality is generally very good, although the search features aren’t very refined so you will spend longer searching than on Filmsupply.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Medium Budget</h4>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Shutterstock</strong> – Pay per clip, starting at around $30 but varies depending on the clip and your usage.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>They have the largest range of footage available out of these three, and possibly the largest range available anywhere. So chances are if you’re looking for something quite specific, then they will have it. To give you an example I recently produced some videos for an large health insurer. They wanted to see an older person having a physiotherapy session at home. Pretty specific! And I was able to easily find this on Shutterstock.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Big Budget</h4>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Filmsupply</strong> – Starting at a few hundred dollars per video.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Filmsupply is the most expensive option but also by far the highest quality. They have tons of cinematic content available to license.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3><strong>workflow</strong></h3>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Targeting</strong></h2>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Targeting the right audience is absolutely critical to the success of your video ad, and it’s something that a lot of people neglect.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Identify who you think would be interested in your product or service. You could get this information from social media, Google analytics about where they originally came from, etc.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>What I've found works best however for companies new to YouTube ads for B2B, is to use Placement Targeting. This is where you allow YouTube to show ads on specific videos and other channels that people are watching related to your product.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is a bit of time consuming process, but totally worth it if you seriously want to generate leads and sales for your business.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Another option that can work well if you already have a branded YouTube channel is to retarget viewers, as you've already started to build relationships with them. If you don't have an existing YouTube channel with a decent amount of recent watch time, then you can also try retargeting visitors to your company website.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>Next Steps</h2>
+<p>
+<!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>As you can see there is a lot that goes into launching an effective YouTube ad campaign, but it's worth it if done well.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Depending on your budget and the size of your business I would suggest starting with placement targeting as this will help to filter out people who won't be interested in what you have to offer right away - saving both time and money.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Create a 3-4 variations of your video script, get it filmed and edited and then you're away!</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>P.S. if you're looking for a done for you YouTube ads service, <a href="https://photonicgrowth.com/contact/" data-type="page" data-id="3562">contact us here</a>. Or if you want to <a href="https://photonicgrowth.com/services/buy-solar-pv-leads/" data-type="page" data-id="4597">buy solar leads</a> that we ourselves generate using YouTube ads and other channels, <a href="https://photonicgrowth.com/services/buy-solar-pv-leads/" data-type="page" data-id="4597">apply here</a>.</p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>SaaS User Acquisition Using YouTube (redirect)</title>
+        <author>
+            <name>Duncan Trevithick</name>
+        </author>
+        <link href="https://duncanfelix.co.uk/saas-user-acquisition-using-youtube-redirect.html"/>
+        <id>https://duncanfelix.co.uk/saas-user-acquisition-using-youtube-redirect.html</id>
+
+        <updated>2022-10-12T17:12:25+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+
 
             ]]>
         </content>
